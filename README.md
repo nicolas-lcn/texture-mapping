@@ -9,5 +9,5 @@ Travail de mapping de textures.
 ![alt text](https://github.com/nicolas-lcn/texture-mapping/blob/main/rendus/skybox.png)
 ![alt text](https://github.com/nicolas-lcn/texture-mapping/blob/main/rendus/SkyBoxMesh1.png)
 ![alt text](https://github.com/nicolas-lcn/texture-mapping/blob/main/rendus/SkyBoxReflection1.png)
-![alt text](https://github.com/nicolas-lcn/texture-mapping/blob/main/rendus/SkyBoxBoomBox1.png)
+![alt text](https://github.com/nicolas-lcn/texture-mapping/blob/main/rendus/SkyBoxReflectionBoomBox1.png)
 
